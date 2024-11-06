@@ -33,7 +33,7 @@ def summarize_EVPSHBS():
             if row[0] == "Date":
                 continue
             year = row[0].split()[2]
-
+            dict_nationwide[year] = {row[2]}
             dict_nationwide[year][row[2]][row[1]] = {"EV Count":row[4],"Non-EV Count": int(row[4]) + int(row[7])}
 
     totalcount = 0
