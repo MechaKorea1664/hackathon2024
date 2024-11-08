@@ -1,0 +1,42 @@
+Source of emission coefficients: https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle
+    gallon of gasoline =  8887 g CO2 (8.887 kg)
+    gallon of diesel   = 10190 g CO2 (10.190 kg)
+
+Source of EV efficiency: https://ev-database.org/cheatsheet/energy-consumption-electric-car
+    Average	189 Wh/km = 304 Wh/mi
+
+Source of total electricity generated: https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php?os=http
+From: generation-major-source.csv, generatoin-renewable-sources.csv
+    
+    2016 = 2725 from carbon source, 1352 from non-carbon, 4077 total.
+    2017 = 2607 from carbon source, 1429 from non-carbon, 4036 total.
+    2018 = 2729 from carbon source, 1452 from non-carbon, 4181 total.
+    2019 = 2651 from carbon source, 1480 from non-carbon, 4131 total.
+    2020 = 2492 from carbon source, 1518 from non-carbon, 4010 total.
+    2021 = 2569 from carbon source, 1539 from non-carbon, 4108 total.
+    2022 = 2611 from carbon source, 1621 from non-carbon, 4232 total.
+    2023 = 2556 from carbon source, 1622 from non-carbon, 4178 total.
+    (in billion kilowatt hours)
+
+Source: carbon-per-sector-annual.xlsx (https://www.eia.gov/environment/emissions/carbon/)
+Total carbon generated:
+
+    2016 = 1820
+    2017 = 1743
+    2018 = 1764
+    2019 = 1617.6 (rounded to 1618)
+    2020 = 1450
+    2021 = 1551
+    2022 = 1542
+    2023 = 1427
+    (million metric tons of carbon dioxide)
+
+kg of carbon per watt hour (Wh):
+ 2016 = 1820000000 mt / 4077000000000 kWh = 1820000000000 kg / 4077000000000000 Wh = 0.0004464 kg/Wh
+ 2017 = 1743000000 mt / 4036000000000 kWh = 1743000000000 kg / 4036000000000000 Wh = 0.0004319 kg/Wh
+ 2018 = 1764000000 mt / 4181000000000 kWh = 1764000000000 kg / 4181000000000000 Wh = 0.0004219 kg/Wh
+ 2019 = 1618000000 mt / 4131000000000 kWh = 1618000000000 kg / 4131000000000000 Wh = 0.0003917 kg/Wh
+ 2020 = 1450000000 mt / 4010000000000 kWh = 1450000000000 kg / 4010000000000000 Wh = 0.0003616 kg/Wh
+ 2021 = 1551000000 mt / 4108000000000 kWh = 1551000000000 kg / 4108000000000000 Wh = 0.0003776 kg/Wh
+ 2022 = 1542000000 mt / 4232000000000 kWh = 1542000000000 kg / 4232000000000000 Wh = 0.0003644 kg/Wh
+ 2023 = 1427000000 mt / 4178000000000 kWh = 1427000000000 kg / 4178000000000000 Wh = 0.0003416 kg/Wh
