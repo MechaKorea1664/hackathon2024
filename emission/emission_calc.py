@@ -19,5 +19,3 @@ def calculate_emission_electric_kilogram(distance, avg_mileage, year):
                   2022:0.0003644,
                   2023:0.0003416}
     return (distance/avg_mileage)*efficiency[year]
-
-print(calculate_emission_electric_kilogram(50,304,2022))
