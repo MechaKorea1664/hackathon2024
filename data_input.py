@@ -104,5 +104,3 @@ def CO2_to_kWh_per_state_annual():
     
     output = pd.DataFrame(annual_state_CO2_to_Wh)
     output.to_csv("hackathon2024/Data_Summary/emission_16-22.csv",index=False)
-    
-CO2_to_kWh_per_state_annual()
