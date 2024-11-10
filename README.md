@@ -1,3 +1,7 @@
+
+
+![Screenshot 2024-11-10 135846](https://github.com/user-attachments/assets/66baea72-f700-442b-b0fa-742600d95c47)
+
 # Future EV Demand Impact on Energy and Emissions
 Authors: Daniel Huynh, Duy Lam, Yagna Patel, and Kevin Yu
 
