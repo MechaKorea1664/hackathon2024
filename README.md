@@ -2,7 +2,7 @@
 Authors: Daniel Huynh, Duy Lam, Yagna Patel, and Kevin Yu
 
 ## Problem
-We are addressing the problem of EV growth in the U.S. and it's potential demand on the power grid and emissions. Through this analysis, we can analyze areas that need more power infrastructure to support EVs and areas that should consider cleaner energy sources to meet future demand.
+This project analyzes how the transition from Gasoline Vehicles to Electric Vehicles (EVs) affects carbon emissions across the United States. By projecting future EV adoption rates and their corresponding energy needs, we identify optimal solutions to implement renewable energy infrastructure to support a carbon neutral world.
 
 ## Statement
 This information can be used to develop and implement green energy policies that encourage a net zero carbon emissions world. 
