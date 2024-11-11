@@ -29,6 +29,16 @@ Environmental Planning
 ## Usage
 To use this program, follow these steps:
 
+- In terminal, run the command `pip install -r -requirements.txt`
+- 
+- run `dashboard.py` and click the local host link outputted in the terminal
+- 
+- Adjust the slider to change the prediction year for plots and state maps
+- 
+- Select from a drop down menu to see specific data for an individual state
+- 
+- For 3d map, you can rotate the map via `command + click` or `ctrl + click`
+
 ## Additional Details
 
 ## Limits
