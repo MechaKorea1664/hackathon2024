@@ -39,6 +39,7 @@ To use this program, follow these steps:
 
 ## Complexity
 **Time Complexity and Space Complexity for Each Function and Operation** //Approximates
+
 data1Extraction.py:
 
 'extract_co2_emissions' function: Time: O(n) Space: O(n)
