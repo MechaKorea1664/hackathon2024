@@ -38,9 +38,28 @@ To use this program, follow these steps:
 ## Exapansions
 
 ## Complexity
-**Time Complexity for Each Function and Operation** 
+**Time Complexity and Space Complexity for Each Function and Operation** //Approximates
 
-**Space Complexity for Each Function and Operation** // not accurate.
+data1Extraction.py:
+'extract_co2_emissions' function: Time: O(n) Space: O(n)
+'extract_annual_generation' function: Time: O(n) Space: O(n)
+'calculate_co2_per_wh' function: Time: O(n²) Space: O(n)
+'process_ev_sales_data' function: Time: O(n) Space: O(n)
+
+data2Regressions.py
+'calculate_registration_trend' function: Time: O(n + k) Space: O(n + k)
+'calculate_growth_rate' function: Time: O(n + k) Space: O(n + k)
+'calculate_co2_per_wh' function: Time: O(n + k) Space: O(n + k)
+'calculate_ev_demand' function: Time: O(n + k) Space: O(n + k)
+'calculate_ev_emissions' function: Time: O(n + k) Space: O(n + k)
+
+data3Models.py
+'plot_registration_trend' function: Time: O(n) Space: O(n)
+'plot_growth_rate' function: Time: O(n) Space: O(n)
+'plot_co2_emissions' function: Time: O(n) Space: O(n)
+'plot_ev_demand' function: Time: O(n) Space: O(n)
+'plot_ev_emissions' function: Time: O(n) Space: O(n)
+'plot_ev_gas_proportion' function: Time: O(n) Space: O(n)
 
 ## Citations
 
