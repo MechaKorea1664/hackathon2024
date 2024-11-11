@@ -53,7 +53,7 @@ data1Extraction.py:
 - `process_ev_sales_data` function: Time: O(n) Space: O(n)
 
 data2Regressions.py:
-
+k = prediction year
 - `calculate_registration_trend` function: Time: O(n + k) Space: O(n + k)
 
 - `calculate_growth_rate` function: Time: O(n + k) Space: O(n + k)
