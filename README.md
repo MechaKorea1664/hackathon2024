@@ -40,7 +40,7 @@ To use this program, follow these steps:
 ## Complexity
 **Time Complexity and Space Complexity for Each Function and Operation** //Approximates
 
-Most of the functions are time complexity of O(n)
+Most of the functions are time complexity of O(n) with half coming from data analysis and half coming from plotting functions dynamically
 
 data1Extraction.py:
 
@@ -63,6 +63,20 @@ k = prediction year
 - `calculate_ev_demand` function: Time: O(n + k) Space: O(n + k)
 
 - `calculate_ev_emissions` function: Time: O(n + k) Space: O(n + k)
+
+data3Models.py:
+
+- `plot_registration_trend function` function: Time: O(n), Space: O(n)
+  
+- `plot_growth_rate` function: Time: O(n), Space: O(n)
+  
+- `plot_co2_emissions` function: Time O(n), Space: O(n)
+  
+- `plot_ev_demand` function: Time: O(n), Space: O(n)
+  
+- `plot_ev_emissions` function: Time: O(n), Space: O(n)
+  
+- `plot_ev_gas_proportion` function: Time: O(n), Space: O(n)
 
 GeoData1Analysis.py:
 
