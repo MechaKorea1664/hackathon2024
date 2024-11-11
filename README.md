@@ -44,61 +44,61 @@ Most of the functions are time complexity of O(n)
 
 data1Extraction.py:
 
-- 'extract_co2_emissions' function: Time: O(n) Space: O(n)
+- `extract_co2_emissions` function: Time: O(n) Space: O(n)
 
-- 'extract_annual_generation' function: Time: O(n) Space: O(n)
+- `extract_annual_generation` function: Time: O(n) Space: O(n)
 
-- 'calculate_co2_per_wh' function: Time: O(n²) Space: O(n)
+- `calculate_co2_per_wh` function: Time: O(n²) Space: O(n)
 
-- 'process_ev_sales_data' function: Time: O(n) Space: O(n)
+- `process_ev_sales_data` function: Time: O(n) Space: O(n)
 
 data2Regressions.py:
 
-- 'calculate_registration_trend' function: Time: O(n + k) Space: O(n + k)
+- `calculate_registration_trend` function: Time: O(n + k) Space: O(n + k)
 
-- 'calculate_growth_rate' function: Time: O(n + k) Space: O(n + k)
+- `calculate_growth_rate` function: Time: O(n + k) Space: O(n + k)
 
-- 'calculate_co2_per_wh' function: Time: O(n + k) Space: O(n + k)
+- `calculate_co2_per_wh` function: Time: O(n + k) Space: O(n + k)
 
-- 'calculate_ev_demand' function: Time: O(n + k) Space: O(n + k)
+- `calculate_ev_demand` function: Time: O(n + k) Space: O(n + k)
 
-- 'calculate_ev_emissions' function: Time: O(n + k) Space: O(n + k)
+- `calculate_ev_emissions` function: Time: O(n + k) Space: O(n + k)
 
 GeoData1Analysis.py:
 
-- 'generate_emissions_projection' function: Time: O(n) Space: O(n)
+- `generate_emissions_projection` function: Time: O(n) Space: O(n)
 
 GeoData2Models.py:
 
-- 'create_3d_state_map' function: Time: O(n) Space: O(n)
+- `create_3d_state_map` function: Time: O(n) Space: O(n)
 
-- 'create_3d_county_map' function: Time: O(n) Space: O(n)
+- `create_3d_county_map` function: Time: O(n) Space: O(n)
 
 GeoData3Generation.py:
 
-- 'load_state_data' function: Time: O(n) Space: O(n)
+- `load_state_data` function: Time: O(n) Space: O(n)
 
-- 'calculate_state_emissions_data' function: Time: O(n) Space: O(n)
+- `calculate_state_emissions_data` function: Time: O(n) Space: O(n)
 
 Dashboard.py:
 
-- 'generate_emissions_projection' function: Time: O(n) Space: O(n)
+- `generate_emissions_projection` function: Time: O(n) Space: O(n)
 
-- 'generate_ev_emissions_percent_change_projection' function: Time: O(n) Space: O(n)
+- `generate_ev_emissions_percent_change_projection` function: Time: O(n) Space: O(n)
 
-- 'create_3d_state_map' function: Time: O(n) Space: O(n)
+- `create_3d_state_map` function: Time: O(n) Space: O(n)
 
-- 'ev_registration_plot' function: Time: O(n) Space: O(n)
+- `ev_registration_plot` function: Time: O(n) Space: O(n)
 
-- 'co2_plot' function: Time: O(n) Space: O(n)
+- `co2_plot` function: Time: O(n) Space: O(n)
 
-- 'ev_demand_plot' function: Time: O(n) Space: O(n)
+- `ev_demand_plot` function: Time: O(n) Space: O(n)
 
-- 'ev_emissions_plot' function: Time: O(n) Space: O(n)
+- `ev_emissions_plot` function: Time: O(n) Space: O(n)
 
-- 'map_view' function: Time: O(n) Space: O(n)
+- `map_view` function: Time: O(n) Space: O(n)
 
-- 'percent_map_view' function: Time: O(n) Space: O(n)
+- `percent_map_view` function: Time: O(n) Space: O(n)
 
 
 
