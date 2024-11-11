@@ -45,7 +45,10 @@ To use this program, follow these steps:
 ## Citations
 
 https://www.eia.gov/environment/emissions/carbon/
+
 https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php?os=http
+
 https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle
+
 https://afdc.energy.gov/vehicle-registration
 
