@@ -29,9 +29,9 @@ Environmental Planning
 ## Usage
 To use this program, follow these steps:
 
-- In terminal, run the command `pip install -r -requirements.txt`
+- In terminal, run the command `pip install -r -requirements.txt` to install required libraries
   
-- run `dashboard.py` and click the local host link outputted in the terminal
+- run `dashboard.py` and click the local host link outputted in the terminal starting with `https://...`
   
 - Adjust the slider to change the prediction year for plots and state maps
   
