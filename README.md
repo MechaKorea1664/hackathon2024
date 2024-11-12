@@ -31,7 +31,7 @@ To use this program, follow these steps:
 
 - In terminal, run the command `pip install -r -requirements.txt` to install required libraries
   
-- run `dashboard.py` and click the local host link outputted in the terminal starting with `https://...`
+- run `dashboard.py` and click the local host link outputted in the terminal starting with "`https://...`"
   
 - Adjust the slider to change the prediction year for plots and state maps
   
@@ -42,8 +42,12 @@ To use this program, follow these steps:
 ## Additional Details
 
 ## Limits
+- Time didn't allow us to fully create the program we had in mind.
+- Data is calculated using data from 2016-2022 specifically for fully battery electric vehicles.
 
 ## Strengths
+- The program can be scaled quickly to use larger datasets by adding more rows.
+- The visual dashboard allows for a comprehensive analysis and overall understanding the impact of EVs through a friendly user interface
 
 ## Exapansions
 
