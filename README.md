@@ -45,7 +45,6 @@ To use this program, follow these steps:
 - The relevant information will be projected in a plot or a map. This map or plot will be projected onto interactive dashboard widgets.
 
 ## Limits
-- Time didn't allow us to fully create the program we had in mind.
 - Data is calculated using data from 2016-2022 specifically for fully battery electric vehicles.
 
 ## Strengths
