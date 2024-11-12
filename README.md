@@ -50,11 +50,15 @@ To use this program, follow these steps:
 - The visual dashboard allows for a comprehensive analysis and overall understanding the impact of EVs through a friendly user interface
 
 ## Exapansions
+- Adding more data related to other industries that the production and charging of EVs affect such as rare earth minerals.
+- Considering county by county data to create a more comprehensive analysis of areas in need of potential energy infrastructure intervention to accomodate EV growth.
+- Consider EV charger count and location in consideration with EV demand.
+
 
 ## Complexity
 **Time Complexity and Space Complexity for Each Function and Operation** //Approximates
 
-Most of the functions are time complexity of O(n) with half coming from data analysis and half coming from plotting functions dynamically
+- Most of the functions are time complexity of O(n) with half coming from data analysis and half coming from plotting functions dynamically
 
 data1Extraction.py:
 
