@@ -40,9 +40,10 @@ To use this program, follow these steps:
 - For 3d map, you can rotate the map via `command + click` or `ctrl + click`
 
 ## Additional Details
-- The program extracts relevant CSV files. From these relevant CSV files, two CSV files are created where data analysis will be performed. Based on this data, various operations will be performed to extract relevant information. The relevant information will be projected in a plot or a map. This map or plot will be projected onto dashboard widgets
+- The program extracts relevant CSV files. From these relevant CSV files, two CSV files are created where data analysis will be performed.
+- Based on this data, various operations will be performed to extract relevant information.
+- The relevant information will be projected in a plot or a map. This map or plot will be projected onto interactive dashboard widgets.
 
-- 
 ## Limits
 - Time didn't allow us to fully create the program we had in mind.
 - Data is calculated using data from 2016-2022 specifically for fully battery electric vehicles.
